@@ -1,8 +1,8 @@
 # WER Exclusions Manager
 
-![GitHub License](https://img.shields.io/github/license/RobertSundling/wer-execlusions)
-![GitHub issues](https://img.shields.io/github/issues/RobertSundling/wer-execlusions)
-![GitHub last commit](https://img.shields.io/github/last-commit/RobertSundling/wer-execlusions)
+![GitHub License](https://img.shields.io/github/license/RobertSundling/wer-exclusions)
+![GitHub issues](https://img.shields.io/github/issues/RobertSundling/wer-exclusions)
+![GitHub last commit](https://img.shields.io/github/last-commit/RobertSundling/wer-exclusions)
 
 This Python script, `wer_exclusions.py`, allows you to add or remove executables from the Windows Error Reporting (WER) exclusion list. This allows you to prevent them from being reported in Windows Error Reporting.
 
